@@ -1,0 +1,16 @@
+C:\Users\Ambratolm\Desktop\ADO2_DEC\ADO2_DEC\bin\Debug\ADO2_DEC.exe
+C:\Users\Ambratolm\Desktop\ADO2_DEC\ADO2_DEC\bin\Debug\ADO2_DEC.pdb
+C:\Users\Ambratolm\Desktop\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.Form1.resources
+C:\Users\Ambratolm\Desktop\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.exe
+C:\Users\Ambratolm\Desktop\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.pdb
+C:\Users\Ambratolm\Desktop\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP2\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP2\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP2\ADO2_DEC\ADO2_DEC\bin\Debug\ADO2_DEC.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP2\ADO2_DEC\ADO2_DEC\bin\Debug\ADO2_DEC.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP2\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP2\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.Form1.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP2\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP2\ADO2_DEC\ADO2_DEC\obj\x86\Debug\ADO2_DEC.csproj.GenerateResource.Cache

@@ -1,0 +1,27 @@
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\bin\Debug\ADO6.exe
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\bin\Debug\ADO6.pdb
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\obj\x86\Debug\ADO6.FORM_MAIN.resources
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\obj\x86\Debug\ADO6.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\obj\x86\Debug\ADO6.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\obj\x86\Debug\ADO6.exe
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\obj\x86\Debug\ADO6.pdb
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\obj\x86\Debug\ADO6.Form_Adherents.resources
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\obj\x86\Debug\ADO6.Form_Emprunts.resources
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\obj\x86\Debug\ADO6.Form_Ouvrages.resources
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\obj\x86\Debug\ADO6.Form_Retours.resources
+C:\Users\Ambratolm\Desktop\ADO6\ADO6\obj\x86\Debug\ADO6.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\bin\Debug\ADO6.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\bin\Debug\ADO6.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.Form_Adherents.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.Form_Emprunts.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.FORM_MAIN.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.Form_Ouvrages.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.Form_Retours.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6\ADO6\obj\x86\Debug\ADO6.Form_Message.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6_CON\ADO6\obj\x86\Debug\ADO6.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\ADO6_CON\ADO6\obj\x86\Debug\ADO6.pdb

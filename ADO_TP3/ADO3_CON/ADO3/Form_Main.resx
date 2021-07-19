@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="tabControl_main.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="tabPage_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_refresh_clients.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label16.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="pictureBox1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_nouveau_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label17.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_afficher_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dataGridView_clients.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="id_client.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="nom_client.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="adresse_client.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="tel_client.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_precedent_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_premier_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_suivant_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_dernier_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_supprimer_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_modifier_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_ajouter_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_rechercher_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="text_telephone_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="text_adresse_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="text_afficher_nom_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="text_nom_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="num_id_client.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label4.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label3.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="tabPage_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_refresh_reservations.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label18.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label9.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dateTimePicker_dateFin_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dateTimePicker_dateDebut_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label5.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="checkBox_pension_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dateTimePicker_date_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="comboBox_clients.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="num_code_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label6.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label7.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label8.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="pictureBox2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_nouveau_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_precedent_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_premier_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_suivant_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_dernier_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_annuler_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_modifier_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_ajouter_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_client_apercu.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_afficher_reservations.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_rechercher_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="tabControl_reservations.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="tabPage_reservations.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dataGridView_reservations.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="code_reservation.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dataGridViewTextBoxColumn1.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="date_reservation.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="pension_complete.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="tabPage_reservations_annulees.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dataGridView_reservations_annulees.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="code_reservation_annulee.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="date_annulation.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="tabPage_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_refresh_sejours.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label19.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label_nombre_reservations.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label10.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label11.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dateTimePicker_date_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="comboBox_type_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="comboBox_type_reservation.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="comboBox_reservations.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="dataGridView_sejours.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="num_sejourr.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="code_reservation_sej.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="num_duree_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="num_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label15.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label12.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label21.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label20.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label13.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="label14.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="pictureBox3.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_precedent_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_premier_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_suivant_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_dernier_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_nouveau_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_supprimer_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_modifier_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_ajouter_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_reservation_apercu.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_afficher_reservations_type.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="button_rechercher_sejour.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAEAAAADQAAABUAAAAWAAAAFgAAABYAAAAWAAAAFgAAABYAAAAWAAAAFgAAABYAAAAWAAAAFgAA
+        ABYAAAAWAAAAFgAAABYAAAAWAAAAFgAAABYAAAAWAAAAFgAAABYAAAAWAAAAFgAAABYAAAAWAAAAFgAA
+        ABUAAAANAAAABAAAAA0AAAArAAAAQAAAAEMAAABDAAAAQwAAAEMAAABDAAAAQwAAAEMAAABDAAAAQwAA
+        AEMAAABDAAAAQwAAAEMAAABDAAAAQwAAAEMAAABDAAAAQwAAAEMAAABDAAAAQwAAAEMAAABDAAAAQwAA
+        AEMAAABDAAAAQAAAACsAAAANAAAAEwA1g8MAOI7/ADeN/wA3jP8AN4z/ADeM/wA3jP8AN4z/ADaM/wAv
+        jP+upZX/nZqV/5iXlf+Yl5X/mJeV/5iXlf+Yl5X/mJeV/52alf+upZX/AC+M/wA2jP8AN4z/ADeM/wA3
+        jP8AN4z/ADeM/wA3jf8AOI7/ADWDwwAAABMAAAANAEGd/ztu6P84bOX/OGzl/zhs5f84bOX/OGzl/zhs
+        5f83a+X/Mmjk/yVg5P/y6Nn/7OTZ/+rj2f/q4tn/6uLZ/+rj2f/s5Nn/8ujZ/yVg5P8yaOT/N2vl/zhs
+        5f84bOX/OGzl/zhs5f84bOX/OGzl/ztu6P8AQZ3/AAAADQAAAAQAQqSzAEKu/wA+q/8APKr/ADyp/wA8
+        qf8APKn/ADyp/wA8qf8AO6n/ADmp/wA2qv8AOq7/ADmt/wA3rP8AN6z/ADmt/wA6rv8ANqr/ADmp/wA7
+        qf8APKn/ADyp/wA8qf8APKn/ADyp/wA8qv8APqv/AEKu/wBCpLMAAAAEAAAAAAAAABaBjX7/t8zA/7PH
+        vP+xxrv/scW6/7HFuv+xxbr/scW6/7HFuv+yxrv/usy8/wA4qv+Eqc//gqjO/4Kozv+Eqc//ADiq/7rM
+        vP+yxrv/scW6/7HFuv+xxbr/scW6/7HFuv+xxrv/s8e8/7fMwP+BjX7/AAAAFgAAAAAAAAAAAAAAFnSF
+        gf9tf33/o727/6C6uP+fubb/n7i1/5+4tf+fuLX/n7m2/6O7uP+vxLn/ADSl/3+ny/8XWbH/F1mx/4Cn
+        zP8ANab/r8S6/6O7uP+fubb/n7i1/5+4tf+fuLX/n7m2/6C6uP+jvbv/bX99/3SFgf8AAAAWAAAAAAAA
+        AAAAAAAWjaut/4mmqf+dt7f/nLa0/+Do4//h6uL/4eri/+Hq4v/g6OP/nre0/6rAtv8AMqH/faTH/xhU
+        pf8aVqb/gqjL/wA1pP+qwLf/nre0/+Do4//h6uL/4eri/+Hq4v/g6OP/nLa0/523t/+Jpqn/jaut/wAA
+        ABYAAAAAAAAAAAAAABZugYH/pb6+/5q1tP+fuLP/JWWw/wA0s/8ANbX/ADSz/yVlsP+hurP/qL61/wAw
+        nP94ocT/FUuX/xhPmv8AEV3/AA5d/6jAt/+hurT/JWWw/wA0s/8ANbX/ADSz/yVlsP+fuLP/mrW0/6W+
+        vv9ugYH/AAAAFgAAAAAAAAAAAAAAFm+Cgv+owMD/mLOx/6C5sv8AMq3//54z//qcN///njP/ADKt/6K7
+        sv+lvLL/ACyX/3Wcvv91nL7/dp6//3mhwv8AMJr/pb2z/6K7sv8AMq3//54z//qcN///njP/ADKt/6C5
+        sv+Ys7H/qMDA/2+Cgv8AAAAWAAAAAAAAAAAAAAAWb4KC/2x+fv+WsK//n7ev/wAwpf//t1D//7RU//+3
+        UP8AMKX/obmv/6K5r/8AKpP/dJu7/xNUqv8TVKr/dJy8/wArk/+iua//obmv/wAwpf//t1D//7RU//+3
+        UP8AMKX/n7ev/5awr/9sfn7/b4KC/wAAABYAAAAAAAAAAAAAABaNq63/iqiq/5KurP+cta3/AC+b/wAs
+        oP8AKqL/ACyg/wAvm/+et67/n7et/wApj/9ymLj/E0qX/xNKl/9ymLj/ACmP/5+3rf+et67/AC+b/wAs
+        oP8AKqL/ACyg/wAvm/+cta3/kq6s/4qoqv+Nq63/AAAAFgAAAAAAAAAAAAAAFm6Bgf+swcH/jamo/5ex
+        qv8AJ5L//+h+///lgP//6H7/ACeS/5mzqv+as6r/ACSL/3CWtP9wlbT/cJW0/3CWtP8AJIv/mrOq/5mz
+        qv8AJ5L//+h+///lgP//6H7/ACeS/5exqv+Nqaj/rMHB/26Bgf8AAAAWAAAAAAAAAAAAAAAWb4KC/67D
+        w/+JpqX/j6um/yJVk/8AH4n/AB+K/wAfif8iVZP/kayn/5Gsp/8mVpH/ACGF/wAihf8AIoX/ACGF/yZW
+        kf+RrKf/kayn/yJVk/8AH4n/AB+K/wAfif8iVZP/j6um/4mmpf+uw8P/b4KC/wAAABYAAAAAAAAAAAAA
+        ABZvgoL/an19/4Cfn/+Bnp3/haKe/4ilnv+IpZ7/iKWe/4Winv+Bnp3/gZ+d/4ainf+JpZ7/iqae/4qm
+        nv+JpZ7/hqKd/4Gfnf+Bnp3/haKe/4ilnv+IpZ7/iKWe/4Winv+Bnp3/gJ+f/2p9ff9vgoL/AAAAFgAA
+        AAAAAAAAAAAAFoupq/+DoaT/2+3r/9jq6P/Y6uf/2uvn/9rr5//a6+f/2Orn/9fp5//X6ef/2Orn/9rr
+        5//a7Of/2uzn/9rr5//Y6uf/1+nn/9fp5//Y6uf/2uvn/9rr5//a6+f/2Orn/9jq6P/b7ev/g6Gk/4up
+        q/8AAAAWAAAAAAAAAAAAAAAWan19/+35+P/Q4+H/0OLg//j79v/8//j//f/5//z/+P/4+/b/0ePf/9Hj
+        3//4+/b//P/4//3/+f/9//n//P/4//j79v/R49//0ePf//j79v/8//j//f/5//z/+P/4+/b/0OLg/9Dj
+        4f/t+fj/an19/wAAABYAAAAAAAAAAAAAABZrf3//7vn5/83h3//U5d//NnS+/wAwr/8AMrL/ADCv/zZ0
+        vv/V5t//1ebf/zZ0vv8AMK//ADKy/wAysv8AMK//NnS+/9Xm3//V5t//NnS+/wAwr/8AMrL/ADCv/zZ0
+        vv/U5d//zeHf/+75+f9rf3//AAAAFgAAAAAAAAAAAAAAFm2AgP9jd3f/zePf/9Xp3/8ALaj//50y//qb
+        N///nTL/AC2o/9fq3//X6t//AC2o//+dMv/4mzj/+Js4//+dMv8ALaj/1+rf/9fq3/8ALaj//50y//qb
+        N///nTL/AC2o/9Xp3//N49//Y3d3/22AgP8AAAAWAAAAAAAAAAAAAAAWi6mr/4Kgo//J3tv/1Ofd/wAr
+        of//tlD//7RU//+2UP8AK6H/1+nd/9fp3f8AK6H//7ZQ//+zVv//s1b//7ZQ/wArof/X6d3/1+nd/wAr
+        of//tlD//7RU//+2UP8AK6H/1Ofd/8ne2/+CoKP/i6mr/wAAABYAAAAAAAAAAAAAABZqfX3/7vn2/8Pa
+        1f/R5dn/ACqW/wAsoP8AKqL/ACyg/wAqlv/U59r/1Ofa/wAqlv8ALKD/ACmj/wApo/8ALKD/ACqW/9Tn
+        2v/U59r/ACqW/wAsoP8AKqL/ACyg/wAqlv/R5dn/w9rV/+759v9qfX3/AAAAFgAAAAAAAAAAAAAAFmt/
+        f//x+vj/v9jS/8vh1v8AIY3//+Z9///lf///5n3/ACGN/83k1//N5Nf/ACGN///mff//5ID//+SA///m
+        ff8AIY3/zeTX/83k1/8AIY3//+Z9///lf///5n3/ACGN/8vh1v+/2NL/8fr4/2t/f/8AAAAWAAAAAAAA
+        AAAAAAAWboKB/2Z5ev+/2tT/xd3U/zRkov8AHIf/AB2I/wAch/80ZKL/xt7U/8be1P80ZKL/AByH/wAd
+        iP8AHYj/AByH/zRkov/G3tT/xt7U/zRkov8AHIf/AB2I/wAch/80ZKL/xd3U/7/a1P9meXr/boKB/wAA
+        ABYAAAAAAAAABAAAAB6IoqH/gJqc/6/Iwv+wyMH/ts3D/7rRxf+70sb/utHF/7bNw/+wyMH/sMjB/7bN
+        w/+60cX/u9LG/7vSxv+60cX/ts3D/7DIwf+wyMH/ts3D/7rRxf+70sb/utHF/7bNw/+wyMH/r8jC/4Ca
+        nP+IoqH/AAAAHgAAAAQAAAANAAAAMGdwY//Z2s//obWn/6K1p/+jtqf/pLeo/6S3qP+kt6j/o7an/6K1
+        p/+itaf/o7an/6S3qP+kt6j/pLeo/6S3qP+jtqf/orWn/6K1p/+jtqf/pLeo/6S3qP+kt6j/o7an/6K1
+        p/+htaf/2drP/2dwY/8AAAAwAAAADQAAABIAMYO9ADCP/wAqjP8AKYv/ACmL/wApi/8AKYv/ACmL/wAp
+        i/8AKYv/ACmL/wApi/8AKYv/ACmL/wApi/8AKYv/ACmL/wApi/8AKYv/ACmL/wApi/8AKYv/ACmL/wAp
+        i/8AKYv/ACmL/wApi/8AKoz/ADCP/wAxg70AAAASAAAADQBAnv9fhdL/W4LQ/1uCz/9bgs//W4LP/1uC
+        z/9bgs//W4LP/1uCz/9bgs//W4LP/1uCz/9bgs//W4LP/1uCz/9bgs//W4LP/1uCz/9bgs//W4LP/1uC
+        z/9bgs//W4LP/1uCz/9bgs//W4HP/1uC0P9fhdL/AECe/wAAAA0AAAAEAEamsgBJsP8ASK//AEiw/wBI
+        sP8ASLD/AEiw/wBIsP8ASLD/AEiw/wBIsP8ASLD/AEiw/wBIsP8ASLD/AEiw/wBIsP8ASLD/AEiw/wBI
+        sP8ASLD/AEiw/wBIsP8ASLD/AEiw/wBIsP8ASK//AEiv/wBJsP8ARqayAAAABAAAAAAAAAAJADWJ9gA3
+        jP8AN43/ACh2/wA4j/8AKHb/ADiP/wAodv8AOI//ACh2/wA4j/8AKHb/ADiP/wAodv8AOI//ACh2/wA4
+        j/8AKHb/ADiP/wAodv8AOI//ACh2/wA4j/8AKHb/ADiO/wA3jf8AN4z/ADWJ9gAAAAkAAAAAAAAAAAAA
+        AAIANoRmAECb/wBAm/8AQp3/ADCD/wBCnv8AMIP/AEKe/wAwg/8AQp7/ADCD/wBCnv8AMIP/AEKe/wAw
+        g/8AQp7/ADCD/wBCnv8AMIP/AEKe/wAwg/8AQp7/ADCD/wBCnv8AL4L/AECb/wBAm/8ANoRmAAAAAgAA
+        AAAAAAAAAAAAAAAAAAkARaX4AEam/wAzjf8AR6j/ADSN/wBHqP8ANI3/AEeo/wA0jf8AR6j/ADSN/wBH
+        qP8ANI3/AEeo/wA0jf8AR6j/ADSN/wBHqP8ANI3/AEeo/wA0jf8AR6j/ADSN/wBGp/8ARab/AEWl+AAA
+        AAkAAAAAAAAAAAAAAAAAAAAAAAAAAgBIpmUATLH/AE2x/wBNsf8ATbH/AE2x/wBNsf8ATbH/AE2x/wBN
+        sf8ATbH/AE2x/wBNsf8ATbH/AE2x/wBNsf8ATbH/AE2x/wBNsf8ATbH/AE2x/wBNsf8ATbH/AEyx/wBM
+        sf8ASKZlAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAABgAAAAYAAAAGAAAABgAAAAYAA
+        AAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAGAAAABgAAAAYAAAAEAAAAAAAAAAAAA
+        AAAAAAAAAAAAAIAAAAGAAAABwAAAA8AAAAM=
+</value>
+  </data>
+</root>

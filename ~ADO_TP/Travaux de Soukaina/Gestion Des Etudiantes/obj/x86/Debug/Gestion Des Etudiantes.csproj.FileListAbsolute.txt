@@ -1,0 +1,5 @@
+C:\Users\sony\Desktop\[ADO.net]TPs\Gestion Des Etudiantes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sony\Desktop\[ADO.net]TPs\Gestion Des Etudiantes\obj\x86\Debug\Gestion_Des_Etudiantes.Form1.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Gestion Des Etudiantes\obj\x86\Debug\Gestion_Des_Etudiantes.Properties.Resources.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Gestion Des Etudiantes\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sony\Desktop\[ADO.net]TPs\Gestion Des Etudiantes\obj\x86\Debug\GenerateResource.write.1.tlog

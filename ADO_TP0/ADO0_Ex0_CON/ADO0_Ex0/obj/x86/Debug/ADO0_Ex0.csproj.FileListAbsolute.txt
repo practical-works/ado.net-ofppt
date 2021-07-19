@@ -1,0 +1,16 @@
+C:\Users\Ambratolm\Desktop\ADO0_Ex0\ADO0_Ex0\bin\Debug\ADO0_Ex0.exe
+C:\Users\Ambratolm\Desktop\ADO0_Ex0\ADO0_Ex0\bin\Debug\ADO0_Ex0.pdb
+C:\Users\Ambratolm\Desktop\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.Form1.resources
+C:\Users\Ambratolm\Desktop\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.exe
+C:\Users\Ambratolm\Desktop\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.pdb
+C:\Users\Ambratolm\Desktop\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP0\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP0\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP0\ADO0_Ex0\ADO0_Ex0\bin\Debug\ADO0_Ex0.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP0\ADO0_Ex0\ADO0_Ex0\bin\Debug\ADO0_Ex0.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP0\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP0\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.Form1.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP0\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP0\ADO0_Ex0\ADO0_Ex0\obj\x86\Debug\ADO0_Ex0.csproj.GenerateResource.Cache

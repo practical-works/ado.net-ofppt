@@ -1,0 +1,32 @@
+C:\Users\Asmae\Desktop\[ADO.net]\[ADO.net]TPs\Exercice 2_TP02\bin\Debug\Exercice 2_TP02.exe
+C:\Users\Asmae\Desktop\[ADO.net]\[ADO.net]TPs\Exercice 2_TP02\bin\Debug\Exercice 2_TP02.pdb
+C:\Users\Asmae\Desktop\[ADO.net]\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice_2_TP02.Form1.resources
+C:\Users\Asmae\Desktop\[ADO.net]\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice_2_TP02.Properties.Resources.resources
+C:\Users\Asmae\Desktop\[ADO.net]\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice 2_TP02.csproj.GenerateResource.Cache
+C:\Users\Asmae\Desktop\[ADO.net]\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice 2_TP02.exe
+C:\Users\Asmae\Desktop\[ADO.net]\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice 2_TP02.pdb
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\bin\Debug\Exercice 2_TP02.exe
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\bin\Debug\Exercice 2_TP02.pdb
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice_2_TP02.Form1.resources
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice_2_TP02.Properties.Resources.resources
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice 2_TP02.csproj.GenerateResource.Cache
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice 2_TP02.exe
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice 2_TP02.pdb
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\bin\Debug\Exercice 2_TP02.exe
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\bin\Debug\Exercice 2_TP02.pdb
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice_2_TP02.Form1.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice_2_TP02.Properties.Resources.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice 2_TP02.exe
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice 2_TP02.pdb
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 2_TP02\bin\Debug\Exercice 2_TP02.exe
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 2_TP02\bin\Debug\Exercice 2_TP02.pdb
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice_2_TP02.Form1.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice_2_TP02.Properties.Resources.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice 2_TP02.exe
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 2_TP02\obj\x86\Debug\Exercice 2_TP02.pdb

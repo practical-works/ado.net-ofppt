@@ -1,0 +1,18 @@
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 1_TP06\bin\Debug\Exercice 1_TP06.exe
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 1_TP06\bin\Debug\Exercice 1_TP06.pdb
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\Exercice_1_TP06.Form1.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\Exercice_1_TP06.Properties.Resources.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\Exercice 1_TP06.exe
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\Exercice 1_TP06.pdb
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 1_TP06\bin\Debug\Exercice 1_TP06.exe
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 1_TP06\bin\Debug\Exercice 1_TP06.pdb
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\Exercice_1_TP06.Form1.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\Exercice_1_TP06.Properties.Resources.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\Exercice 1_TP06.exe
+C:\Users\sony\Desktop\[ADO.net]TPs\Exercice 1_TP06\obj\x86\Debug\Exercice 1_TP06.pdb

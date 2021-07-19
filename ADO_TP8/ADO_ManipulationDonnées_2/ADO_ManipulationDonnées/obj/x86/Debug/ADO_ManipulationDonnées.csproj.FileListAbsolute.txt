@@ -1,0 +1,26 @@
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\bin\Debug\ADO_ManipulationDonnées.exe
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\bin\Debug\ADO_ManipulationDonnées.pdb
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.Form1.resources
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.exe
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.pdb
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\bin\Debug\ADO_ManipulationDonnées.exe.config
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.Form2.resources
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.Form3.resources
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.Form4.resources
+C:\Users\Ambratolm\Desktop\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.FORM_MAIN.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\bin\Debug\ADO_ManipulationDonnées.exe.config
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\bin\Debug\ADO_ManipulationDonnées.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\bin\Debug\ADO_ManipulationDonnées.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.Form1.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.Form2.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.Form3.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.Form4.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.FORM_MAIN.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_Extra\ADO_ManipulationDonnées\ADO_ManipulationDonnées\obj\x86\Debug\ADO_ManipulationDonnées.csproj.GenerateResource.Cache

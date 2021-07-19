@@ -1,0 +1,24 @@
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\bin\Debug\RapportAvancé.exe
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\bin\Debug\RapportAvancé.pdb
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.exe
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.pdb
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\bin\Debug\RapportAvancé.exe.config
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.VisionneuseRapports.resources
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.Form_Pays.resources
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.Form_Atomes.resources
+C:\Users\Ambratolm\Desktop\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.EntréePrincipale.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\bin\Debug\RapportAvancé.exe.config
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\bin\Debug\RapportAvancé.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\bin\Debug\RapportAvancé.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.Form_Atomes.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.EntréePrincipale.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.Form_Pays.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.VisionneuseRapports.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP9\RapportAvancé\RapportAvancé\obj\x86\Debug\RapportAvancé.csproj.GenerateResource.Cache

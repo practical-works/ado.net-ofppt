@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{E53D29F6-7EA5-4248-BC51-6B4D9F95973B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ADO_EFM_2014_DERDOURI</RootNamespace>
+    <AssemblyName>ADO_EFM_2014_DERDOURI</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MetroFramework">
+      <HintPath>..\..\..\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\@ Travaux Pratiques ADO.NET\TESTS_CSHARP\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_Groupes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Groupes.Designer.cs">
+      <DependentUpon>Form_Groupes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_GroupesStagiaires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_GroupesStagiaires.Designer.cs">
+      <DependentUpon>Form_GroupesStagiaires.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Principal.Designer.cs">
+      <DependentUpon>Form_Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_RechercheGroupes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_RechercheGroupes.Designer.cs">
+      <DependentUpon>Form_RechercheGroupes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Stagiaires.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Stagiaires.Designer.cs">
+      <DependentUpon>Form_Stagiaires.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_VisionneuseRapports.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_VisionneuseRapports.Designer.cs">
+      <DependentUpon>Form_VisionneuseRapports.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserControl_CouleursFond.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl_CouleursFond.Designer.cs">
+      <DependentUpon>UserControl_CouleursFond.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form_Groupes.resx">
+      <DependentUpon>Form_Groupes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_GroupesStagiaires.resx">
+      <DependentUpon>Form_GroupesStagiaires.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Principal.resx">
+      <DependentUpon>Form_Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_RechercheGroupes.resx">
+      <DependentUpon>Form_RechercheGroupes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Stagiaires.resx">
+      <DependentUpon>Form_Stagiaires.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_VisionneuseRapports.resx">
+      <DependentUpon>Form_VisionneuseRapports.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="UserControl_CouleursFond.resx">
+      <DependentUpon>UserControl_CouleursFond.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\group.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user_student.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

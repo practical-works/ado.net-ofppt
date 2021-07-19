@@ -1,0 +1,12 @@
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\bin\Debug\ADO4.exe
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\bin\Debug\ADO4.pdb
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\obj\x86\Debug\ADO4.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\obj\x86\Debug\ADO4.Form_Main.resources
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\obj\x86\Debug\ADO4.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\obj\x86\Debug\ADO4.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\obj\x86\Debug\ADO4.exe
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\obj\x86\Debug\ADO4.pdb
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\obj\x86\Debug\ADO4.Form_Medecin.resources
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\obj\x86\Debug\ADO4.Form_Patient.resources
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\obj\x86\Debug\ADO4.Form_RDV.resources
+C:\Users\Ambratolm\Desktop\ADO4\ADO4\obj\x86\Debug\ADO4.Form_Consultation.resources

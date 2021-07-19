@@ -1,0 +1,14 @@
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\bin\Debug\EFM_2017.exe
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\bin\Debug\EFM_2017.pdb
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.Question_C1.resources
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.Question_C2.resources
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.Question_C3.resources
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.Question_C4.resources
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.Question_C5.resources
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.exe
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.pdb
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\bin\Debug\EFM_2017.exe.config
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\EFM_2017\EFM_2017\obj\x86\Debug\EFM_2017.Question_C6.resources

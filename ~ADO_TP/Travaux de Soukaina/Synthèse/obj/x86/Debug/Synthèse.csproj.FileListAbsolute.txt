@@ -1,0 +1,47 @@
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\bin\Debug\Synthèse.exe
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\bin\Debug\Synthèse.pdb
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Authentification.resources
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Form_MenuPrincipal.resources
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Properties.Resources.resources
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.csproj.GenerateResource.Cache
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.exe
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.pdb
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Ajout.resources
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Modification.resources
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Suppression.resources
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Liste.resources
+C:\Users\Asmae\Desktop\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Gestion_des_fournisseurs.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.exe
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.pdb
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Authentification.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Form_MenuPrincipal.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Gestion_des_fournisseurs.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Ajout.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Liste.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Modification.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Suppression.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Properties.Resources.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\bin\Debug\Synthèse.exe
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\bin\Debug\Synthèse.pdb
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Gestion_des_fournitures.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Liste_des_fournitures_par_fournisseur.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Synthèse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\bin\Debug\Synthèse.exe
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\bin\Debug\Synthèse.pdb
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Authentification.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Form_MenuPrincipal.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Gestion_des_fournisseurs.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Gestion_des_fournitures.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Liste_des_fournitures_par_fournisseur.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Ajout.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Liste.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Modification.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Produits___Suppression.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.Properties.Resources.resources
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.exe
+C:\Users\sony\Desktop\[ADO.net]TPs\Synthèse\obj\x86\Debug\Synthèse.pdb

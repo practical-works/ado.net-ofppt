@@ -1,0 +1,43 @@
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\bin\Debug\ADOX_GestionVentesPro.exe
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\bin\Debug\ADOX_GestionVentesPro.pdb
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Form_Main.resources
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.exe
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.pdb
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\bin\Debug\ADOX_GestionVentesPro.exe.config
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Fichier.Form_Login.resources
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Produits.Form_GestionProduits.resources
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Fichier.Form_ImageViewer.resources
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Fichier.Form_ReportViewer.resources
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Ventes.Form_GestionCommandes.resources
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Ventes.Form_GestionClients.resources
+C:\Users\Ambratolm\Desktop\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Utilisateurs.Form_GestionUtilisateurs.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\bin\Debug\ADOX_GestionVentesPro.exe.config
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Fichier.Form_ImageViewer.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Fichier.Form_Login.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Form_Main.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Fichier.Form_ReportViewer.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Produits.Form_GestionProduits.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Utilisateurs.Form_GestionUtilisateurs.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Ventes.Form_GestionCommandes.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Ventes.Form_GestionClients.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.csproj.GenerateResource.Cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\bin\Debug\ADOX_GestionVentesPro.exe.config
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.exe
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.csprojResolveAssemblyReference.cache
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Fichier.Form_ImageViewer.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Fichier.Form_Login.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Form_Main.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Fichier.Form_ReportViewer.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Produits.Form_GestionProduits.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Utilisateurs.Form_GestionUtilisateurs.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Ventes.Form_GestionCommandes.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Interfaces.Ventes.Form_GestionClients.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.Properties.Resources.resources
+C:\Users\Abdelhakim\Mes applications\@ My Applications\Training TP\Advanced_Prog_TP\ADO.NET_TP\ADO.NET_TP_ISTA\ADO_X\ADOX_GestionVentesPro\ADOX_GestionVentesPro\obj\x86\Debug\ADOX_GestionVentesPro.csproj.GenerateResource.Cache

@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vigilence", "Vigilence\Vigilence.csproj", "{C04CD2A4-6A57-4D9D-A8DF-BCF06D9F498A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "VigilenceSetup", "VigilenceSetup\VigilenceSetup.vdproj", "{EE19D8FD-F067-405B-9596-73F8550AE45F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C04CD2A4-6A57-4D9D-A8DF-BCF06D9F498A}.Debug|x86.ActiveCfg = Debug|x86
+		{C04CD2A4-6A57-4D9D-A8DF-BCF06D9F498A}.Debug|x86.Build.0 = Debug|x86
+		{C04CD2A4-6A57-4D9D-A8DF-BCF06D9F498A}.Release|x86.ActiveCfg = Release|x86
+		{C04CD2A4-6A57-4D9D-A8DF-BCF06D9F498A}.Release|x86.Build.0 = Release|x86
+		{EE19D8FD-F067-405B-9596-73F8550AE45F}.Debug|x86.ActiveCfg = Debug
+		{EE19D8FD-F067-405B-9596-73F8550AE45F}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

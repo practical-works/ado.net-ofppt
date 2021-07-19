@@ -1,0 +1,9 @@
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP07\bin\Debug\Exercice 2_TP07.exe
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP07\bin\Debug\Exercice 2_TP07.pdb
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP07\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP07\obj\x86\Debug\Exercice_2_TP07.Form1.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP07\obj\x86\Debug\Exercice_2_TP07.Properties.Resources.resources
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP07\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP07\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP07\obj\x86\Debug\Exercice 2_TP07.exe
+C:\Users\Asmae\Desktop\Mes Documents\[ADO.net]\Travaux\[ADO.net]TPs\Exercice 2_TP07\obj\x86\Debug\Exercice 2_TP07.pdb

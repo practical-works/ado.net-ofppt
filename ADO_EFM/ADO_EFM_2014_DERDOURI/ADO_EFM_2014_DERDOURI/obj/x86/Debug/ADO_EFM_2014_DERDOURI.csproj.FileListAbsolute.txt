@@ -1,0 +1,16 @@
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\bin\Debug\ADO_EFM_2014_DERDOURI.exe.config
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\bin\Debug\ADO_EFM_2014_DERDOURI.exe
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\bin\Debug\ADO_EFM_2014_DERDOURI.pdb
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\bin\Debug\MetroFramework.dll
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.Form_Groupes.resources
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.Form_VisionneuseRapports.resources
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.UserControl_CouleursFond.resources
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.exe
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.pdb
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.Form_Principal.resources
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.Form_GroupesStagiaires.resources
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.Form_RechercheGroupes.resources
+C:\Users\Ambratolm\Desktop\ADO_EFM_2014_DERDOURI\ADO_EFM_2014_DERDOURI\obj\x86\Debug\ADO_EFM_2014_DERDOURI.Form_Stagiaires.resources

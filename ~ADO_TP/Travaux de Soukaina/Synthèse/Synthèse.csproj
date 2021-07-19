@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AE70B9A2-C538-4730-A55A-2B6EF1AB7A71}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Synthèse</RootNamespace>
+    <AssemblyName>Synthèse</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Authentification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Authentification.Designer.cs">
+      <DependentUpon>Authentification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des fournisseurs.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des fournisseurs.Designer.cs">
+      <DependentUpon>Gestion des fournisseurs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gestion des fournitures.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gestion des fournitures.Designer.cs">
+      <DependentUpon>Gestion des fournitures.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Liste des fournitures par fournisseur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Liste des fournitures par fournisseur.Designer.cs">
+      <DependentUpon>Liste des fournitures par fournisseur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produits - Ajout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produits - Ajout.Designer.cs">
+      <DependentUpon>Produits - Ajout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produits - Liste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produits - Liste.Designer.cs">
+      <DependentUpon>Produits - Liste.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produits - Modification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produits - Modification.Designer.cs">
+      <DependentUpon>Produits - Modification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Produits - Suppression.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Produits - Suppression.Designer.cs">
+      <DependentUpon>Produits - Suppression.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Authentification.resx">
+      <DependentUpon>Authentification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des fournisseurs.resx">
+      <DependentUpon>Gestion des fournisseurs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gestion des fournitures.resx">
+      <DependentUpon>Gestion des fournitures.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Liste des fournitures par fournisseur.resx">
+      <DependentUpon>Liste des fournitures par fournisseur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produits - Ajout.resx">
+      <DependentUpon>Produits - Ajout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produits - Liste.resx">
+      <DependentUpon>Produits - Liste.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produits - Modification.resx">
+      <DependentUpon>Produits - Modification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Produits - Suppression.resx">
+      <DependentUpon>Produits - Suppression.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

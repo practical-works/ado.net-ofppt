@@ -1,0 +1,20 @@
+C:\Users\Ambratolm\Desktop\GestionAbonnementsCTRL\GestionAbonnementsCTRL\bin\Debug\GestionAbonnementsCTRL.exe
+C:\Users\Ambratolm\Desktop\GestionAbonnementsCTRL\GestionAbonnementsCTRL\bin\Debug\GestionAbonnementsCTRL.pdb
+C:\Users\Ambratolm\Desktop\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.Form_Main.resources
+C:\Users\Ambratolm\Desktop\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.exe
+C:\Users\Ambratolm\Desktop\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.pdb
+C:\Users\Ambratolm\Desktop\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.Form_Abonne.resources
+C:\Users\Ambratolm\Desktop\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.Form_Abonnement.resources
+C:\Users\Ambratolm\Desktop\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.Form_Consommation.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\#Contrôle_2\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\#Contrôle_2\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\#Contrôle_2\GestionAbonnementsCTRL\GestionAbonnementsCTRL\bin\Debug\GestionAbonnementsCTRL.exe
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\#Contrôle_2\GestionAbonnementsCTRL\GestionAbonnementsCTRL\bin\Debug\GestionAbonnementsCTRL.pdb
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\#Contrôle_2\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.Form_Abonne.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\#Contrôle_2\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.Form_Abonnement.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\#Contrôle_2\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.Form_Consommation.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\#Contrôle_2\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.Form_Main.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\#Contrôle_2\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.Properties.Resources.resources
+C:\Users\Ambratolm\Projects\1. My Programs\Travaux Pratiques\Programmation\ADO .NET\ADO_TP6\#Contrôle_2\GestionAbonnementsCTRL\GestionAbonnementsCTRL\obj\x86\Debug\GestionAbonnementsCTRL.csproj.GenerateResource.Cache

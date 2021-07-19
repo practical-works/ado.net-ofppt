@@ -1,0 +1,10 @@
+C:\Users\Ambratolm\Desktop\ADO5\ADO5\bin\Debug\ADO5.exe
+C:\Users\Ambratolm\Desktop\ADO5\ADO5\bin\Debug\ADO5.pdb
+C:\Users\Ambratolm\Desktop\ADO5\ADO5\obj\x86\Debug\ADO5.FORM_MAIN.resources
+C:\Users\Ambratolm\Desktop\ADO5\ADO5\obj\x86\Debug\ADO5.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO5\ADO5\obj\x86\Debug\ADO5.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO5\ADO5\obj\x86\Debug\ADO5.exe
+C:\Users\Ambratolm\Desktop\ADO5\ADO5\obj\x86\Debug\ADO5.pdb
+C:\Users\Ambratolm\Desktop\ADO5\ADO5\obj\x86\Debug\ADO5.Form_Notes.resources
+C:\Users\Ambratolm\Desktop\ADO5\ADO5\obj\x86\Debug\ADO5.Form_Stagiaires.resources
+C:\Users\Ambratolm\Desktop\ADO5\ADO5\obj\x86\Debug\ADO5.csprojResolveAssemblyReference.cache

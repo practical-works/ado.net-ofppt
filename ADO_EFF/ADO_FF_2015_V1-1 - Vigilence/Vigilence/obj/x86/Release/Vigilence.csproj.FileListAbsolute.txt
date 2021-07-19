@@ -1,0 +1,9 @@
+C:\Users\Ambratolm\Desktop\Vigilence\Vigilence\bin\Release\Vigilence.exe
+C:\Users\Ambratolm\Desktop\Vigilence\Vigilence\bin\Release\Vigilence.pdb
+C:\Users\Ambratolm\Desktop\Vigilence\Vigilence\obj\x86\Release\Vigilence.Form_Main.resources
+C:\Users\Ambratolm\Desktop\Vigilence\Vigilence\obj\x86\Release\Vigilence.Form_Quartiers.resources
+C:\Users\Ambratolm\Desktop\Vigilence\Vigilence\obj\x86\Release\Vigilence.Form_RechercheQuartiers.resources
+C:\Users\Ambratolm\Desktop\Vigilence\Vigilence\obj\x86\Release\Vigilence.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\Vigilence\Vigilence\obj\x86\Release\Vigilence.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\Vigilence\Vigilence\obj\x86\Release\Vigilence.exe
+C:\Users\Ambratolm\Desktop\Vigilence\Vigilence\obj\x86\Release\Vigilence.pdb

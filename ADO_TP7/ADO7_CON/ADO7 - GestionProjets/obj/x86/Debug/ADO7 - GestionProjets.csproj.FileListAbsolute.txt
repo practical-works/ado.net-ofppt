@@ -1,0 +1,13 @@
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\bin\Debug\ADO7 - GestionProjets.exe
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\bin\Debug\ADO7 - GestionProjets.pdb
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7___GestionProjets.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7 - GestionProjets.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7 - GestionProjets.exe
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7 - GestionProjets.pdb
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7___GestionProjets.Form_Main.resources
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7___GestionProjets.EMPLOYE.Form_Ajouter.resources
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7___GestionProjets.EMPLOYE.Form_Modifier.resources
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7 - GestionProjets.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7___GestionProjets.EMPLOYE.Form_Supprimer.resources
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7___GestionProjets.EMPLOYE.Form_Rechercher.resources
+C:\Users\Ambratolm\Desktop\ADO7 - GestionProjets\ADO7 - GestionProjets\obj\x86\Debug\ADO7___GestionProjets.EMPLOYE.Form_Trier.resources

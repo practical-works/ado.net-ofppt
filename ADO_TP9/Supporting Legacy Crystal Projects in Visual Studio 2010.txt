@@ -1,0 +1,29 @@
+Add this in app.config :
+
+<startup useLegacyV2RuntimeActivationPolicy="true">
+  <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.0"/>
+</startup>
+
+----------------------------------------------
+
+Alternative :
+<runtime>
+  <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+    <dependentAssembly>
+      <assemblyIdentity name="CrystalDecisions.CrystalReports.Engine" publicKeyToken="692fbea5521e1304" culture="neutral"/>
+      <bindingRedirect oldVersion="10.5.3700.0" newVersion="11.5.3300.0"/>
+    </dependentAssembly>
+    <dependentAssembly>
+      <assemblyIdentity name="CrystalDecisions.ReportSource" publicKeyToken="692fbea5521e1304" culture="neutral"/>
+      <bindingRedirect oldVersion="10.5.3700.0" newVersion="11.5.3300.0"/>
+    </dependentAssembly>
+    <dependentAssembly>
+      <assemblyIdentity name="CrystalDecisions.Shared" publicKeyToken="692fbea5521e1304" culture="neutral"/>
+      <bindingRedirect oldVersion="10.5.3700.0" newVersion="11.5.3300.0"/>
+    </dependentAssembly>
+    <dependentAssembly>
+      <assemblyIdentity name="CrystalDecisions.Web" publicKeyToken="692fbea5521e1304" culture="neutral"/>
+      <bindingRedirect oldVersion="10.5.3700.0" newVersion="11.5.3300.0"/>
+    </dependentAssembly>
+  </assemblyBinding>
+</runtime>

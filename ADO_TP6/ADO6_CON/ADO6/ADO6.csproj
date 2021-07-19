@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{64AD2E47-F2F2-44D5-BE80-4D9C46CA1957}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ADO6</RootNamespace>
+    <AssemblyName>ADO6</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form_Adherents.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Adherents.Designer.cs">
+      <DependentUpon>Form_Adherents.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Emprunts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Emprunts.Designer.cs">
+      <DependentUpon>Form_Emprunts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FORM_MAIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FORM_MAIN.Designer.cs">
+      <DependentUpon>FORM_MAIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Ouvrages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Ouvrages.Designer.cs">
+      <DependentUpon>Form_Ouvrages.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Retours.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Retours.Designer.cs">
+      <DependentUpon>Form_Retours.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Message.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Message.Designer.cs">
+      <DependentUpon>Form_Message.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form_Adherents.resx">
+      <DependentUpon>Form_Adherents.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Emprunts.resx">
+      <DependentUpon>Form_Emprunts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FORM_MAIN.resx">
+      <DependentUpon>FORM_MAIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Ouvrages.resx">
+      <DependentUpon>Form_Ouvrages.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Retours.resx">
+      <DependentUpon>Form_Retours.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Message.resx">
+      <DependentUpon>Form_Message.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_picture.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_property.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1348675224_Library.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\warning.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\accept_button.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\emotion_adore.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_picture1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand_property1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book_keeping.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

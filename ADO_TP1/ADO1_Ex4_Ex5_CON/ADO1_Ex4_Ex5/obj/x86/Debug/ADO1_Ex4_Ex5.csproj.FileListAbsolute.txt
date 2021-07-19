@@ -1,0 +1,8 @@
+C:\Users\Ambratolm\Desktop\ADO1_Ex4_Ex5\ADO1_Ex4_Ex5\bin\Debug\ADO1_Ex4_Ex5.exe
+C:\Users\Ambratolm\Desktop\ADO1_Ex4_Ex5\ADO1_Ex4_Ex5\bin\Debug\ADO1_Ex4_Ex5.pdb
+C:\Users\Ambratolm\Desktop\ADO1_Ex4_Ex5\ADO1_Ex4_Ex5\obj\x86\Debug\ADO1_Ex4_Ex5.Form1.resources
+C:\Users\Ambratolm\Desktop\ADO1_Ex4_Ex5\ADO1_Ex4_Ex5\obj\x86\Debug\ADO1_Ex4_Ex5.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO1_Ex4_Ex5\ADO1_Ex4_Ex5\obj\x86\Debug\ADO1_Ex4_Ex5.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO1_Ex4_Ex5\ADO1_Ex4_Ex5\obj\x86\Debug\ADO1_Ex4_Ex5.exe
+C:\Users\Ambratolm\Desktop\ADO1_Ex4_Ex5\ADO1_Ex4_Ex5\obj\x86\Debug\ADO1_Ex4_Ex5.pdb
+C:\Users\Ambratolm\Desktop\ADO1_Ex4_Ex5\ADO1_Ex4_Ex5\obj\x86\Debug\ADO1_Ex4_Ex5.csprojResolveAssemblyReference.cache

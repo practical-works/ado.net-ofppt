@@ -1,0 +1,10 @@
+C:\Users\Ambratolm\Desktop\GestionAbonnements\GestionAbonnements\bin\Debug\GestionAbonnements.exe
+C:\Users\Ambratolm\Desktop\GestionAbonnements\GestionAbonnements\bin\Debug\GestionAbonnements.pdb
+C:\Users\Ambratolm\Desktop\GestionAbonnements\GestionAbonnements\obj\x86\Debug\GestionAbonnements.Form_Abonnes.resources
+C:\Users\Ambratolm\Desktop\GestionAbonnements\GestionAbonnements\obj\x86\Debug\GestionAbonnements.Form_Contrat.resources
+C:\Users\Ambratolm\Desktop\GestionAbonnements\GestionAbonnements\obj\x86\Debug\GestionAbonnements.Form_Produits.resources
+C:\Users\Ambratolm\Desktop\GestionAbonnements\GestionAbonnements\obj\x86\Debug\GestionAbonnements.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\GestionAbonnements\GestionAbonnements\obj\x86\Debug\GestionAbonnements.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\GestionAbonnements\GestionAbonnements\obj\x86\Debug\GestionAbonnements.exe
+C:\Users\Ambratolm\Desktop\GestionAbonnements\GestionAbonnements\obj\x86\Debug\GestionAbonnements.pdb
+C:\Users\Ambratolm\Desktop\GestionAbonnements\GestionAbonnements\obj\x86\Debug\GestionAbonnements.FORM_MAIN.resources

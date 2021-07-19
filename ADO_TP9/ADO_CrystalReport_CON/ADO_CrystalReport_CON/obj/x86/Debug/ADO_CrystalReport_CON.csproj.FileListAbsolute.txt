@@ -1,0 +1,9 @@
+C:\Users\Ambratolm\Desktop\ADO_CrystalReport_CON\ADO_CrystalReport_CON\bin\Debug\ADO_CrystalReport_CON.exe.config
+C:\Users\Ambratolm\Desktop\ADO_CrystalReport_CON\ADO_CrystalReport_CON\bin\Debug\ADO_CrystalReport_CON.exe
+C:\Users\Ambratolm\Desktop\ADO_CrystalReport_CON\ADO_CrystalReport_CON\bin\Debug\ADO_CrystalReport_CON.pdb
+C:\Users\Ambratolm\Desktop\ADO_CrystalReport_CON\ADO_CrystalReport_CON\obj\x86\Debug\ADO_CrystalReport_CON.csprojResolveAssemblyReference.cache
+C:\Users\Ambratolm\Desktop\ADO_CrystalReport_CON\ADO_CrystalReport_CON\obj\x86\Debug\ADO_CrystalReport_CON.Form1.resources
+C:\Users\Ambratolm\Desktop\ADO_CrystalReport_CON\ADO_CrystalReport_CON\obj\x86\Debug\ADO_CrystalReport_CON.Properties.Resources.resources
+C:\Users\Ambratolm\Desktop\ADO_CrystalReport_CON\ADO_CrystalReport_CON\obj\x86\Debug\ADO_CrystalReport_CON.csproj.GenerateResource.Cache
+C:\Users\Ambratolm\Desktop\ADO_CrystalReport_CON\ADO_CrystalReport_CON\obj\x86\Debug\ADO_CrystalReport_CON.exe
+C:\Users\Ambratolm\Desktop\ADO_CrystalReport_CON\ADO_CrystalReport_CON\obj\x86\Debug\ADO_CrystalReport_CON.pdb
